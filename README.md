@@ -1,2 +1,2 @@
 # desenvolvimentodesistemas
-Atividades da UC
+Atividades da UC- html, css, javascript e php
